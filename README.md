@@ -1,0 +1,4 @@
+getdisk_image
+=============
+
+asd

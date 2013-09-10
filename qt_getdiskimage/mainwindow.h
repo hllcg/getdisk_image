@@ -21,6 +21,7 @@ private:
 
 public slots:
     void doldur();
+    void getfiledialog();
 
 };
 
